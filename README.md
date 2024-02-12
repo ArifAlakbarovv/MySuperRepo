@@ -1,1 +1,2 @@
-My first readme
+#!/bin/bash
+This is my first repository as a full-stack engineer
